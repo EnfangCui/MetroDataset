@@ -14,3 +14,12 @@ Two energy harvesting sensor nodes was used to collect the vibration acceleratio
 * **(2) Metro_vibration_v1_y_axis_failure.zip**
 * **(3) Metro_vibration_v1_z_axis_failure.zip**
 
+### Data example: </br>
+| index | x_data/g |
+|------|------|
+| 0 | -0.1 |
+| 1 | -0.1 |
+| 2 | 0.2 |
+| 3 | 0.3 |
+| 4 | 0.3 |
+| ... | ... |
